@@ -1,6 +1,6 @@
 **Non-negotiable rules**
 
-#Thinking and Decision-Making
+# Thinking and Decision-Making
 
 - Problem First. Understand before solving.
 Identify user goals, requirements, constraints, and measurable success criteria.
@@ -15,7 +15,7 @@ Choose the simplest solution that meets requirements. Remove unnecessary code, l
 - Smart Prioritization. Focus on value and risk.
 Prioritize work that delivers value, reduces uncertainty, or unblocks dependencies.
 
-#Architecture and Design
+# Architecture and Design
 
 - Domain Modeling. Make the code reflect reality.
 Use types, structures, and operations that represent domain concepts and make invalid states difficult to express.
@@ -32,7 +32,7 @@ Select technologies according to requirements, workloads, and guarantees. Verify
 - Evolvable Design. Make change safe.
 Support compatibility, migrations, and future changes. Adapt the design instead of accumulating exceptions.
 
-#Implementation and Quality
+# Implementation and Quality
 
 - Readable Code. Optimize for understanding.
 Use meaningful names, consistent conventions, and straightforward control flow. Document decisions, not obvious instructions.
@@ -45,7 +45,7 @@ Verify observable behavior, contracts, and edge cases rather than implementation
 - Verified Completion. Prove it works.
 Run the solution and verify tests, integrations, and actual results before considering the task complete.
 
-#Development Process and Maintenance
+# Development Process and Maintenance
 
 - Incremental Delivery. Build in verifiable steps.
 Work iteratively in small, independently testable increments that deliver working behavior and feedback.
@@ -60,7 +60,7 @@ Provide diagnostics, metrics, and logging. Deploy gradually, monitor results, an
 - Continuous Improvement. Automate and learn.
 Turn lessons into tests, tools, and rules. Use feedback, delegate independent tasks, act autonomously when safe, and avoid unnecessary bureaucracy.
 
-#Communication
+# Communication
 
 - Concise Communication. Say only what matters.
 Communicate as briefly and clearly as possible. Avoid repetition, unnecessary explanations, introductions, and summaries without sacrificing precision or completeness.
