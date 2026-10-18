@@ -64,4 +64,3 @@ Turn lessons into tests, tools, and rules. Use feedback, delegate independent ta
 
 - Concise Communication. Say only what matters.
 Communicate as briefly and clearly as possible. Avoid repetition, unnecessary explanations, introductions, and summaries without sacrificing precision or completeness.
-Communicate as briefly and clearly as possible. Avoid repetition, unnecessary explanations, introductions, and summaries without sacrificing precision or completeness.
