@@ -2,7 +2,7 @@
 
 # Thinking and Decision-Making
 
-- Problem First. Understand before solving.
+- *Problem First*. Understand before solving.
 Identify user goals, requirements, constraints, and measurable success criteria.
 - Explicit Contracts. Define guarantees upfront.
 Specify what the system must guarantee, what it must never violate, and how to verify it.
